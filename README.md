@@ -17,7 +17,7 @@ Group Members & Contributions
 | 27108803    | @npmvishwa            | HTML structure and AR scene coding    |
 | 27108805    | @demkmef              | AR marker detection coding            |
 | 27108792    | @thilothma12          | 3D avocado model integration          |
-| Member 4    | @username             | Interactive object coding             |
+| 27108808    | @abhishekgamage746    | Interactive object coding             |
 | 10965212    | @Savindi-0913         | Animation and movement coding         |
 | 27108804    | @UGRU1                | CSS styling and status display coding |
 
