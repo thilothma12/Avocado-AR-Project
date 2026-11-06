@@ -1,0 +1,31 @@
+
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#arjs-video {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover;
+}
+
+/* Marker status message */
+#status {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+
+    padding: 10px;
+    text-align: center;
+
+    color: white;
+    font-family: Arial, sans-serif;
+
+    background-color: #C62828;
+}
