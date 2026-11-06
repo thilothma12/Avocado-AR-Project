@@ -19,7 +19,7 @@ Group Members & Contributions
 | 27108792    | @thilothma12          | 3D avocado model integration          |
 | Member 4    | @username             | Interactive object coding             |
 | Member 5    | @username             | Animation and movement coding         |
-| Member 6    | @username             | CSS styling and status display coding |
+| 27108804    | @UGRU1                | CSS styling and status display coding |
 
 How to Run; 
 1. Open the project using a supported web browser
