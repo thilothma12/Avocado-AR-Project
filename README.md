@@ -22,7 +22,7 @@ Group Members & Contributions
 | 27108804    | @UGRU1                | CSS styling and status display coding |
 
 live demo 
-https://github.com/thilothma12/Avocado-AR-Project
+https://taupe-phoenix-fe6bb2.netlify.app/
 
 How to Run; 
 1. Open the project using a supported web browser
